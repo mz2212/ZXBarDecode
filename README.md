@@ -12,4 +12,4 @@ A 1D/2D Barcoder decoder browser extension using zxing-js
 3. Run `yarn webpack`
 4. Enter the `dist` folder and run `web-ext build`
 
-You shouldn't ever need to build it because you can just get the addon from the mozilla extension repo.
+You shouldn't ever need to build it because you can just get the addon from the Mozilla extension repo [here](https://addons.mozilla.org/firefox/addon/zxbardecode/).
